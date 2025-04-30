@@ -20,6 +20,12 @@
   <div style="font-size: 0.9rem; color: #666;">逆向👑</div>
 </a>
 
+<a href="https://baozongwi.xyz/" target="_blank" style="display: inline-block; padding: 1rem; border-radius: 12px; border: 1px solid #eaeaea; text-align: center; width: 200px; text-decoration: none;">
+  <img src="https://baozongwi.xyz/images/acvtar.jpg" alt="baozongwi" style="width:48px;height:48px;border-radius: 50%;">
+  <div style="font-weight: bold; margin-top: 0.5rem;">baozongwi</div>
+  <div style="font-size: 0.9rem; color: #666;">包子王👑</div>
+</a>
+
 <a href="" target="_blank" style="display: inline-block; padding: 1rem; border-radius: 12px; border: 1px solid #eaeaea; text-align: center; width: 200px; text-decoration: none;">
   <img src="" alt="" style="width:48px;height:48px;border-radius: 50%;">
   <div style="font-weight: bold; margin-top: 0.5rem;">谁？</div>
