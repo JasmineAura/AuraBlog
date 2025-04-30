@@ -12,14 +12,19 @@ config:
       actions:
         -
           theme: brand
-          text: 笔记
+          text: 🧠 笔记
           link: /notes/cybersecurity/
         -
           theme: alt
-          text: Github →
-          link: https://github.com/JasmineAura
+          text: 🤝 友链
+          link: /Friends
         -
           theme: brand
-          text: 秘密
+          text: 🔍 秘密
           link: 
+        -
+          theme: alt
+          text: 🐱 Github →
+          link: https://github.com/JasmineAura
+        
 ---
