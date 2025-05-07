@@ -26,6 +26,12 @@
   <div style="font-size: 0.9rem; color: #666;">包子王👑</div>
 </a>
 
+<a href="https://wh1tej0ker.github.io/" target="_blank" style="display: inline-block; padding: 1rem; border-radius: 12px; border: 1px solid #eaeaea; text-align: center; width: 200px; text-decoration: none;">
+  <img src="https://wh1tej0ker.github.io/joker.jpg" alt="Wh1teJ0ker" style="width:48px;height:48px;border-radius: 50%;">
+  <div style="font-weight: bold; margin-top: 0.5rem;">Wh1teJ0ker</div>
+  <div style="font-size: 0.9rem; color: #666;">Wh1teJ0ker✌</div>
+</a>
+
 <a href="" target="_blank" style="display: inline-block; padding: 1rem; border-radius: 12px; border: 1px solid #eaeaea; text-align: center; width: 200px; text-decoration: none;">
   <img src="" alt="" style="width:48px;height:48px;border-radius: 50%;">
   <div style="font-weight: bold; margin-top: 0.5rem;">谁？</div>
