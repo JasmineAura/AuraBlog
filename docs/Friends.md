@@ -38,6 +38,12 @@
   <div style="font-size: 0.9rem; color: #666;">2er00ne✌</div>
 </a>
 
+<a href="https://z3n1th1.com/" target="_blank" style="display: inline-block; padding: 1rem; border-radius: 12px; border: 1px solid #eaeaea; text-align: center; width: 200px; text-decoration: none;">
+  <img src="https://z3n1th1.com/images/avatar.jpg" alt="Z3n1th" style="width:48px;height:48px;border-radius: 50%;">
+  <div style="font-weight: bold; margin-top: 0.5rem;">Z3n1th</div>
+  <div style="font-size: 0.9rem; color: #666;">Xor Zenith [Hex]</div>
+</a>
+
 <a href="" target="_blank" style="display: inline-block; padding: 1rem; border-radius: 12px; border: 1px solid #eaeaea; text-align: center; width: 200px; text-decoration: none;">
   <img src="" alt="" style="width:48px;height:48px;border-radius: 50%;">
   <div style="font-weight: bold; margin-top: 0.5rem;">谁？</div>
