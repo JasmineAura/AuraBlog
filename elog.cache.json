@@ -690,6 +690,116 @@
       "realName": "第三届盘古石杯 初赛 复现",
       "relativePath": "\\数字取证\\第三届盘古石杯 初赛 复现.md",
       "docPath": "docs\\notes\\cybersecurity\\数字取证"
+    },
+    {
+      "id": 244306119,
+      "doc_id": "tfueqrnn474nzk0i",
+      "updated": 1762849575000,
+      "properties": {
+        "title": "羊城杯 2025 初赛 Misc",
+        "urlname": "tfueqrnn474nzk0i",
+        "date": "2025-11-11 16:26:14",
+        "updated": "2025-11-11 16:26:15",
+        "cover": "https://cdn.nlark.com/yuque/0/2025/png/47252163/1760255083817-6416a267-3596-4c13-8308-8834bc74abb3.png",
+        "description": "Misc成功男人背后的女人跟正常 png 结构不太一样，多了一堆 mk 开头的数据块。其实是 fireworks png，可以理解为有一堆图层，要下载 Macromedia Fireworks 查看，但是这里有一个在线网站可以查看。https://www.photopea.com/"
+      },
+      "catalog": [
+        {
+          "title": "赛事",
+          "doc_id": "tfueqrnn474nzk0i"
+        }
+      ],
+      "realName": "羊城杯 2025 初赛 Misc",
+      "relativePath": "\\赛事\\羊城杯 2025 初赛 Misc.md",
+      "docPath": "docs\\notes\\cybersecurity\\赛事"
+    },
+    {
+      "id": 244306066,
+      "doc_id": "hge602lpv9rhr0so",
+      "updated": 1762849602000,
+      "properties": {
+        "title": "MinecraftCTF WriteUp",
+        "urlname": "hge602lpv9rhr0so",
+        "date": "2025-11-11 16:26:00",
+        "updated": "2025-11-11 16:26:42",
+        "cover": "https://cdn.nlark.com/yuque/0/2025/png/47252163/1755424416905-2bb300cf-901f-4a6b-a3fc-d3c6099eb749.png",
+        "description": "队伍：AERK 1Miscezmisc-签到"
+      },
+      "catalog": [
+        {
+          "title": "赛事",
+          "doc_id": "hge602lpv9rhr0so"
+        }
+      ],
+      "realName": "MinecraftCTF WriteUp",
+      "relativePath": "\\赛事\\MinecraftCTF WriteUp.md",
+      "docPath": "docs\\notes\\cybersecurity\\赛事"
+    },
+    {
+      "id": 244305930,
+      "doc_id": "lbysmq2d0yospd2u",
+      "updated": 1762849530000,
+      "properties": {
+        "title": "2025帕鲁杯线上 WP",
+        "urlname": "lbysmq2d0yospd2u",
+        "date": "2025-11-11 16:25:29",
+        "updated": "2025-11-11 16:25:30",
+        "cover": "https://cdn.nlark.com/yuque/0/2025/png/47252163/1747448846129-29a288af-56a1-418c-9d4d-b980a1e1a798.png",
+        "description": "应急响应主线1提交堡垒机中留下的flagpalu{2025_qiandao_flag}2提交WAF中隐藏的flagpalu{2025_waf}3提交Mysql中留下的flagpalu{Mysql_@2025}4提交攻击者的攻击IPpalu{192.168.20.107}5提交攻攻击者最早攻击时..."
+      },
+      "catalog": [
+        {
+          "title": "赛事",
+          "doc_id": "lbysmq2d0yospd2u"
+        }
+      ],
+      "realName": "2025帕鲁杯线上 WP",
+      "relativePath": "\\赛事\\2025帕鲁杯线上 WP.md",
+      "docPath": "docs\\notes\\cybersecurity\\赛事"
+    },
+    {
+      "id": 244318841,
+      "doc_id": "ufgh8edzel7gsupv",
+      "updated": 1762853235000,
+      "properties": {
+        "title": "2025 龙信杯",
+        "urlname": "ufgh8edzel7gsupv",
+        "date": "2025-11-11 17:27:14",
+        "updated": "2025-11-11 17:27:15",
+        "cover": "https://cdn.nlark.com/yuque/0/2025/png/47252163/1762648089802-83754a39-6476-4251-9c7c-7b540af713a5.png",
+        "description": "自 2023 年起，“终点小说” 公司（以下统称 “甲公司”）发现，张大运营的 “芯龙小说” 软件未获甲公司授权，利用网络爬虫技术非法抓取、传播甲公司旗下多部热门小说。涉案作品为甲公司独家授权并付费推广的优质内容，甲公司依法享有信息网络传播权， 张大的行为已严重侵害甲公司及作者的著作权。 20..."
+      },
+      "catalog": [
+        {
+          "title": "数字取证",
+          "doc_id": "ufgh8edzel7gsupv"
+        }
+      ],
+      "realName": "2025 龙信杯",
+      "relativePath": "\\数字取证\\2025 龙信杯.md",
+      "docPath": "docs\\notes\\cybersecurity\\数字取证"
+    },
+    {
+      "id": 244305851,
+      "doc_id": "pn4xkyc4kbvgueo5",
+      "updated": 1762849511000,
+      "properties": {
+        "title": "SunshineCTF 2025",
+        "urlname": "pn4xkyc4kbvgueo5",
+        "date": "2025-11-11 16:25:11",
+        "updated": "2025-11-11 16:25:11",
+        "cover": "https://cdn.nlark.com/yuque/0/2025/png/47252163/1759119566223-d65d923c-1ecd-48a2-be47-c555414e53f8.png",
+        "description": "ReverseBASEicThe space base is in danger and we lost the key to get in!两串 base64 拼起来解码就是 flag。ExceLLMDid you know that the Apollo Guidance Computer..."
+      },
+      "catalog": [
+        {
+          "title": "赛事",
+          "doc_id": "pn4xkyc4kbvgueo5"
+        }
+      ],
+      "realName": "SunshineCTF 2025",
+      "relativePath": "\\赛事\\SunshineCTF 2025.md",
+      "docPath": "docs\\notes\\cybersecurity\\赛事"
     }
   ],
   "catalog": [
@@ -715,7 +825,7 @@
       "url": "",
       "prev_uuid": "k-JO9RYWcrx4JZQX",
       "sibling_uuid": "of8EjybBpmlnW4mD",
-      "child_uuid": "IwOy0HoGD9iybhkx",
+      "child_uuid": "HeXcrL6v_q7_d49I",
       "parent_uuid": "",
       "doc_id": "",
       "level": 0,
@@ -725,10 +835,25 @@
     },
     {
       "type": "DOC",
+      "title": "2025 龙信杯",
+      "uuid": "HeXcrL6v_q7_d49I",
+      "url": "ufgh8edzel7gsupv",
+      "prev_uuid": "xQXcsAKI1-CYDX8l",
+      "sibling_uuid": "IwOy0HoGD9iybhkx",
+      "child_uuid": "",
+      "parent_uuid": "xQXcsAKI1-CYDX8l",
+      "doc_id": 244318841,
+      "level": 1,
+      "id": 244318841,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
       "title": "第三届盘古石杯 初赛 复现",
       "uuid": "IwOy0HoGD9iybhkx",
       "url": "tx483gi8zbut1i8v",
-      "prev_uuid": "xQXcsAKI1-CYDX8l",
+      "prev_uuid": "HeXcrL6v_q7_d49I",
       "sibling_uuid": "3nqQPS_Y03imOGsP",
       "child_uuid": "",
       "parent_uuid": "xQXcsAKI1-CYDX8l",
@@ -910,7 +1035,7 @@
       "url": "",
       "prev_uuid": "xQXcsAKI1-CYDX8l",
       "sibling_uuid": "",
-      "child_uuid": "x7MN85Ru2wW61hxk",
+      "child_uuid": "vQuA05QB7RI5LtJO",
       "parent_uuid": "",
       "doc_id": "",
       "level": 0,
@@ -919,11 +1044,71 @@
       "visible": 1
     },
     {
+      "type": "DOC",
+      "title": "羊城杯 2025 初赛 Misc",
+      "uuid": "vQuA05QB7RI5LtJO",
+      "url": "tfueqrnn474nzk0i",
+      "prev_uuid": "of8EjybBpmlnW4mD",
+      "sibling_uuid": "NS3oQO6p0xoGtouR",
+      "child_uuid": "",
+      "parent_uuid": "of8EjybBpmlnW4mD",
+      "doc_id": 244306119,
+      "level": 1,
+      "id": 244306119,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "MinecraftCTF WriteUp",
+      "uuid": "NS3oQO6p0xoGtouR",
+      "url": "hge602lpv9rhr0so",
+      "prev_uuid": "vQuA05QB7RI5LtJO",
+      "sibling_uuid": "FeRv1N1jq8IlJjdi",
+      "child_uuid": "",
+      "parent_uuid": "of8EjybBpmlnW4mD",
+      "doc_id": 244306066,
+      "level": 1,
+      "id": 244306066,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "2025帕鲁杯线上 WP",
+      "uuid": "FeRv1N1jq8IlJjdi",
+      "url": "lbysmq2d0yospd2u",
+      "prev_uuid": "NS3oQO6p0xoGtouR",
+      "sibling_uuid": "VW3VwEeojG6NYv3k",
+      "child_uuid": "",
+      "parent_uuid": "of8EjybBpmlnW4mD",
+      "doc_id": 244305930,
+      "level": 1,
+      "id": 244305930,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "SunshineCTF 2025",
+      "uuid": "VW3VwEeojG6NYv3k",
+      "url": "pn4xkyc4kbvgueo5",
+      "prev_uuid": "FeRv1N1jq8IlJjdi",
+      "sibling_uuid": "x7MN85Ru2wW61hxk",
+      "child_uuid": "",
+      "parent_uuid": "of8EjybBpmlnW4mD",
+      "doc_id": 244305851,
+      "level": 1,
+      "id": 244305851,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
       "type": "TITLE",
       "title": "2025 能源大赛",
       "uuid": "x7MN85Ru2wW61hxk",
       "url": "",
-      "prev_uuid": "of8EjybBpmlnW4mD",
+      "prev_uuid": "VW3VwEeojG6NYv3k",
       "sibling_uuid": "jvscvzTnPpKwqhVe",
       "child_uuid": "rM2QDHmnGiNO33nl",
       "parent_uuid": "of8EjybBpmlnW4mD",

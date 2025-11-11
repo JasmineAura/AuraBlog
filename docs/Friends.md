@@ -1,3 +1,8 @@
+---
+title: Friends
+createTime: 2025/04/30 21:28:28
+permalink: /article/s0bda1cf/
+---
 # ❤ 友情链接
 
 <div style="display: flex; flex-wrap: wrap; gap: 1rem; margin-top: 1rem;">
